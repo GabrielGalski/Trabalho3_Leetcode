@@ -1,5 +1,5 @@
 # Trabalho3_Leetcode
-Gabriel Gaslki Machado - M2
+Gabriel Galski Machado - M2
 
 865. Smallest Subtree with all the Deepest Nodes
 
